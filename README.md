@@ -4,8 +4,6 @@ Tween24
 Tween24 is Tween library for ActionScript 3.
 (MIT License)
 
-**lastest version:** 2.0.1
-
 [http://package.a24.cat/tween24/](http://package.a24.cat/tween24/)
 
 Introduction
